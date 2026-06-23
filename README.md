@@ -22,4 +22,4 @@ This project analyzes sales data and presents key business insights through an i
 - Data Visualization
 
 ## Author
-Viraj
+Viraj Devkar

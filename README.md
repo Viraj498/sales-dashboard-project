@@ -25,3 +25,4 @@ This project analyzes sales data and presents key business insights through an i
 
 ## Author
 Viraj Devkar
+devkarviraj498@gamai.com

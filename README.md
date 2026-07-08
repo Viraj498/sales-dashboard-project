@@ -16,6 +16,7 @@ This project analyzes sales data and presents key business insights through an i
 - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6472d163-2e24-4bfd-b672-dfd6bd352467" />
 
 
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
